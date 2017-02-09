@@ -1,0 +1,7 @@
+---
+sakura_cloud:
+  token: XXXXXXXXXXXXXXX
+  secret: XXXXXXXXXXXXXX
+# sandbox
+  zone: 'tk1v' 
+

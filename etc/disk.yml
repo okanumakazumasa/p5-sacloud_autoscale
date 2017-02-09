@@ -1,0 +1,19 @@
+---
+plan: 12006
+switch: shared
+tags:
+  - "@keyboard-us"
+  - "@virtio-net-pci"
+  - autoscale
+disks:
+  sandbox-app1: 1xxxxxxxxxxx
+  sandbox-app2: 1xxxxxxxxxxx
+  sandbox-app3: 1xxxxxxxxxxx
+  sandbox-app4: 1xxxxxxxxxxx
+  sandbox-app5: 1xxxxxxxxxxx
+  sandbox-app6: 1xxxxxxxxxxx
+  sandbox-app7: 1xxxxxxxxxxx
+  sandbox-app8: 1xxxxxxxxxxx
+  sandbox-app9: 1xxxxxxxxxxx
+  sandbox-app10: 1xxxxxxxxxxx
+
